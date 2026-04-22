@@ -1,17 +1,14 @@
-# Meteor Madness: Impact Simulator
+# Meteor Madness: The Ultimate Impact Simulator
 
-Meteor Madness is an interactive geospatial simulator that allows users to visualize the potential effects of asteroid impacts on Earth. By simulating various impact scenarios, users can understand the scale of energy release and subsequent damage.
+What would happen if an asteroid the size of a stadium hit the center of your city? Meteor Madness answers the "what if" questions of planetary defense through a scientific and interactive simulation environment.
 
-## Features
-- Impact Modeling: Input asteroid diameter, velocity, and location to calculate impact outcomes.
-- Damage Visualization: Maps seismic magnitude, crater dimensions, and thermal damage zones.
-- Interactive Interface: Powered by Leaflet for smooth, browser-based geospatial exploration.
-- No Backend Required: Fully functional client-side application for instant simulation.
+## The Simulation Experience
+This isn't just a map; it's a tool for understanding physics. By calculating variables like diameter, velocity, and impact angle, Meteor Madness generates a detailed report on the resulting crater, seismic magnitude, and damage zones.
 
-## Technology Stack
-- HTML5 / CSS3
-- JavaScript (Simulation Engine)
-- Leaflet.js (Interactive Mapping)
+## Scientific Indicators
+- Energy Release: Visualizes the equivalent kilotons of TNT released upon impact.
+- Damage Rings: Overlays accurate rings representing thermal damage, air blast radius, and seismic effects.
+- Browser-Powered: No servers or installations requiredâ€”the entire simulation engine runs directly in your browser.
 
-## Usage
-Select a target location on the map and configure the asteroid parameters to see the simulated impact results.
+## How to Simulate
+Simply select a target on the global map, adjust your asteroid's parameters on the sidebar, and initiate the impact to see the results.
